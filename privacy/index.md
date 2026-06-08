@@ -1,22 +1,15 @@
+---
+---
+
 <!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Privacy Policy</title>
-  <script>
-    const language = navigator.language || navigator.userLanguage || "";
-    const target = language.toLowerCase().startsWith("zh") ? "./zh/" : "./en/";
-    window.location.replace(target);
-  </script>
-  <noscript>
-    <meta http-equiv="refresh" content="0; url=./en/">
-  </noscript>
+  <meta http-equiv="refresh" content="0; url=./en/">
+  <link rel="canonical" href="./en/">
+  <title>Redirecting to Privacy Policy</title>
 </head>
 <body>
-  <p>
-    Privacy Policy:
-    <a href="./en/">English</a> |
-    <a href="./zh/">中文</a>
-  </p>
+  <p>Redirecting to <a href="./en/">Privacy Policy</a>...</p>
 </body>
 </html>
