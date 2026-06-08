@@ -1,7 +1,7 @@
-# 岛听法律文档
+# Auralis Documents
 
-欢迎查看岛听相关协议文档。
+Welcome to Auralis.
 
-- [隐私政策](./privacy/)
-- [用户服务协议与会员订阅协议](./terms/)
-- [技术支持](./support/)
+- [Privacy Policy](./privacy/)
+- [Terms of Use](./terms/)
+- [Support](./support/)
