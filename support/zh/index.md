@@ -89,10 +89,10 @@ https://reportaproblem.apple.com/
 ## 隐私政策与用户协议
 
 隐私政策：  
-https://iamjamlin.github.io/auralis/privacy/
+https://iamjamlin.github.io/Auralis/privacy/
 
 用户协议：  
-https://iamjamlin.github.io/auralis/terms/
+https://iamjamlin.github.io/Auralis/terms/
 
 ## 关于岛听
 
