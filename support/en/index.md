@@ -89,10 +89,10 @@ When you actively save an exported image, the app may need permission to add the
 ## Privacy Policy and Terms of Use
 
 Privacy Policy:  
-https://iamjamlin.github.io/auralis/privacy/
+https://iamjamlin.github.io/Auralis/privacy/
 
 Terms of Use:  
-https://iamjamlin.github.io/auralis/terms/
+https://iamjamlin.github.io/Auralis/terms/
 
 ## About Auralis
 
