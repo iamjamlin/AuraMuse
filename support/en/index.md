@@ -5,11 +5,11 @@
   </div>
 </div>
 
-# Auralis App Support
+# AuraMuse App Support
 
-Thank you for using Auralis.
+Thank you for using AuraMuse.
 
-Auralis is an app centered around white noise, calming music, affirmations, and companion audio experiences. It provides features such as multi-track playback, sleep timers, focus timers, theme backgrounds, widgets, reminders, and custom imports.
+AuraMuse is an app centered around white noise, calming music, affirmations, and companion audio experiences. It provides features such as multi-track playback, sleep timers, focus timers, theme backgrounds, widgets, reminders, and custom imports.
 
 If you experience any issues while using the app, or if you have questions about subscriptions, features, audio playback, permissions, or account-related matters, you can contact us using the information below.
 
@@ -31,7 +31,7 @@ We will review your message and reply as soon as possible. Response times may va
 
 ### 1. Why do some features or content require a membership?
 
-Auralis offers both free content and member-only content. Members can unlock more white noise, calming music, affirmation content, theme backgrounds, custom import features, or export-related benefits. The specific benefits available are subject to what is shown in the app.
+AuraMuse offers both free content and member-only content. Members can unlock more white noise, calming music, affirmation content, theme backgrounds, custom import features, or export-related benefits. The specific benefits available are subject to what is shown in the app.
 
 ### 2. How do I restore my purchase?
 
@@ -43,11 +43,11 @@ Subscriptions are managed by Apple. On your iPhone, open:
 
 Settings > Apple ID > Subscriptions
 
-Find Auralis, then manage or cancel your subscription there.
+Find AuraMuse, then manage or cancel your subscription there.
 
 ### 4. How do I request a refund?
 
-Subscriptions for Auralis are processed by Apple App Store. If you need to request a refund, please submit your request through Apple's official channel:
+Subscriptions for AuraMuse are processed by Apple App Store. If you need to request a refund, please submit your request through Apple's official channel:
 
 https://reportaproblem.apple.com/
 
@@ -94,8 +94,8 @@ https://iamjamlin.github.io/AuraMuse/privacy/
 Terms of Use:  
 https://iamjamlin.github.io/AuraMuse/terms/
 
-## About Auralis
+## About AuraMuse
 
-Auralis is designed to be a calm space you can return to whenever you need a moment of rest.
+AuraMuse is designed to be a calm space you can return to whenever you need a moment of rest.
 
-Whether you are having trouble sleeping, feeling tired, trying to focus, or simply hoping to hear a gentle affirmation, Auralis is here to quietly accompany you.
+Whether you are having trouble sleeping, feeling tired, trying to focus, or simply hoping to hear a gentle affirmation, AuraMuse is here to quietly accompany you.
