@@ -1,6 +1,6 @@
-# Auralis Documents
+# AuraMuse Documents
 
-Welcome to Auralis.
+Welcome to AuraMuse.
 
 - [Privacy Policy](./privacy/)
 - [Terms of Use](./terms/)
